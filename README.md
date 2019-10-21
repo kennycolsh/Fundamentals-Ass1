@@ -7,7 +7,7 @@
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
 - [matplotlib](http://matplotlib.org/)
-- [seaborn] (https://seaborn.pydata.org/)
+- [seaborn](https://seaborn.pydata.org/)
 
 
 We will also be using software to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
